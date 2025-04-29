@@ -1,32 +1,7 @@
 # 抖音更改IP
-DOMAIN-KEYWORD,byte
-DOMAIN-KEYWORD,huoshan
-DOMAIN-KEYWORD,ixigua
-DOMAIN-KEYWORD,toutiao
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,qishui.com
-DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,xsgtvacct.com
-DOMAIN-SUFFIX,bfcdnbf.com
-DOMAIN-SUFFIX,gslbdns.com
-DOMAIN-SUFFIX,wohst8.com
-DOMAIN-SUFFIX,ieshuodong.cn
-DOMAIN-SUFFIX,awemeuglang.com
-DOMAIN-SUFFIX,cookicut.com
-DOMAIN-SUFFIX,aihst8.com
-DOMAIN-SUFFIX,awemeugwave.com
-DOMAIN-SUFFIX,ultracachenode.com
-DOMAIN-SUFFIX,iluckysf.net
 DOMAIN-SUFFIX,amemv.cn
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,tiapi.cn
-DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
 # 快手更改IP
 DOMAIN-SUFFIX,ksapisrv.com
 # 小红书更改IP
