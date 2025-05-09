@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,amemv.cn
 DOMAIN-SUFFIX,amemv.com
 # 快手更改IP
-DOMAIN-SUFFIX,ksapisrv.com
+#DOMAIN-SUFFIX,ksapisrv.com
 # 小红书更改IP
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 # 微信视频号更改IP
