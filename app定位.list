@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,amemv.com
 # 小红书更改IP
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 # 微信视频号更改IP
-#DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
 # 最右更改IP
 DOMAIN-SUFFIX,api.izuiyou.com
 # 微博更改IP
