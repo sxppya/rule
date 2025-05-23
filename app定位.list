@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,api.pipix.com
 #皮皮搞笑更改IP
 DOMAIN-SUFFIX,alfile.ippzone.com
 DOMAIN-SUFFIX,api.ippzone.com
+#贴吧ip
+DOMAIN-Suffix,tiebac.baidu.com
