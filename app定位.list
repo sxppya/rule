@@ -24,3 +24,9 @@ DOMAIN-SUFFIX,alfile.ippzone.com
 DOMAIN-SUFFIX,api.ippzone.com
 #贴吧ip
 DOMAIN-SUFFIX,www.baidu.com
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tbmsg.baidu.com
+DOMAIN-SUFFIX,tb5.bdstatic.com
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,gsp0.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
